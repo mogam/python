@@ -1,5 +1,5 @@
 # print("Hello World!")
-name = input("Name:")
-print("Hello" + name)
-print(f"Hello,{name}")
-
+# name = input("Name:")
+# print("Hello" + name)
+# print(f"Hello,{name}")
+ fistName = input("Fist name")
