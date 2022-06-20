@@ -2,4 +2,5 @@
 # name = input("Name:")
 # print("Hello" + name)
 # print(f"Hello,{name}")
- fistName = input("Fist name")
+fastName = input("Fist name")
+print("Hello" + fastName)
